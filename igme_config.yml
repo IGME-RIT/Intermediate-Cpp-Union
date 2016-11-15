@@ -1,0 +1,14 @@
+series: Intermediate C++
+title: Union
+author:
+  name: David Erbelding
+  email: daviderbelding@gmail.com
+  github: https://github.com/Erbelding
+description: Unions are a convenient way to treate memory in different ways.
+language: C++
+tags:
+  - Core
+extra_resources:
+connections:
+  - series: Basic C++
+    title: Casting Objects

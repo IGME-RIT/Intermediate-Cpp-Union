@@ -1,4 +1,4 @@
-# Basic C++: Unions
+# Intermediate C++: Unions
 
 A union combines multiple types into one object.
 They can be declared and used similarly to structs, but unlike a struct, every member of a union will share the same memory.
